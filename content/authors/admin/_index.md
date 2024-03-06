@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Peter Watson
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Peter
+last_name: Watson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Fellow by Examination
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Magdalen College
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Laser Spectroscopy of Molecules and Clusters
+  - Instrument Design & Construction
+  - Computational Chemistry
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: University of Western Australia
+      year: 2022
+    - course: BSc(Hons) in Chemistry
+      institution: University of Western Australia
+      year: 2015
+    - course: BSc in Chemistry
+      institution: University of Western Australia
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,13 +47,14 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/peterwatson_
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=H4kL60UAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
