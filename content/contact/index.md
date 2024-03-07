@@ -13,12 +13,12 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 12 Mansfield Rd
+        city: Oxford
+        region: Oxfordshire
+        postcode: 'OX1 3TA'
+        country: United Kingdom
+        country_code: UK
       coordinates:
         latitude: '51.758590'
         longitude: '-1.252960'
