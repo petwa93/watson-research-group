@@ -22,8 +22,8 @@ sections:
       coordinates:
         latitude: '51.758590'
         longitude: '-1.252960'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       appointment_url: 'https://calendly.com'
