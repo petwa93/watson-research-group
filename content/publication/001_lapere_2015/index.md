@@ -1,11 +1,11 @@
 ---
 title: "Halide–Nitrogen Gas-Phase Clusters: Anion Photoelectron Spectroscopy and High Level ab Initio Calculations"
 authors:
-- Kim Lapere
+- Kim M. L. Lapere
 - Marcus Kettner
 - admin
-- Allan McKinley
-- Duncan Wild
+- Allan J. McKinley
+- Duncan A. Wild
 author_notes:
 date: "2015-08-24T00:00:00Z"
 doi: "10.1021/acs.jpca.5b06348"
@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Physical Chemistry A, 119*(37)"
 publication_short: ""
 
-abstract: The gas phase anion photoelectron spectra are presented for the halide–nitrogen clusters X$^{-}\cdots (N_{2})_{n}$, where X = Br and I and n ≤ 5. Electron binding energies for each cluster in the halide series are determined, with no evidence observed for first solvation shell closure in either series. High level ab initio calculations at the CCSD(T) level of theory are presented for the anion and neutral halogen–nitrogen complexes. For the anion species, two minima are predicted corresponding to a loosely bound C2v “T-shaped” species and to a higher energy covalently bound “triangle” C2v symmetry geometry. For the neutral species, three stationary points were located, two of which display similar form to the anion minima and a third which is linear, i.e., C∞v symmetry. The “T-shaped” geometry is a transition state linking equivalent C∞v symmetry minima. Cluster dissociation energies (D0) were determined, for both anion and neutral global minima at the CCSD(T) complete basis set limit, to be 7.8 kJ mol–1 and 7.0 kJ mol−1 and 3.5 kJ mol−1 and 5.0 kJ mol−1 for the bromine and iodine species, respectively.
+abstract: The gas phase anion photoelectron spectra are presented for the halide–nitrogen clusters X$^{-}\cdots (\text{N}_{2})_{n}$, where X = Br and I and $n$ ≤ 5. Electron binding energies for each cluster in the halide series are determined, with no evidence observed for first solvation shell closure in either series. High level ab initio calculations at the CCSD(T) level of theory are presented for the anion and neutral halogen–nitrogen complexes. For the anion species, two minima are predicted corresponding to a loosely bound C$_{2v}$ “T-shaped” species and to a higher energy covalently bound “triangle” C$_{2v}$ symmetry geometry. For the neutral species, three stationary points were located, two of which display similar form to the anion minima and a third which is linear, i.e., C$_{\infty v}$ symmetry. The “T-shaped” geometry is a transition state linking equivalent C$_{\infty v}$ symmetry minima. Cluster dissociation energies ($D_{0}$) were determined, for both anion and neutral global minima at the CCSD(T) complete basis set limit, to be 7.8 kJ mol$^{–1}$ and 7.0 kJ mol$^{–1}$ and 3.5 kJ mol$^{–1}$ and 5.0 kJ mol$^{–1}$ for the bromine and iodine species, respectively.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
