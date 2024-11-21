@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Watson Research Group
+        Watson Laser Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Watson Research Group** is a broad physical chemistry research group at Curtin University with specialisations in gas-phase spectroscopy.
+        The **Watson Laser Lab** is a broad physical chemistry research group at Curtin University with specialisations in gas-phase spectroscopy.
   
   - block: collection
     content:
