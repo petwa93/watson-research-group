@@ -1,7 +1,7 @@
 ---
 title: Anion photoelectron spectroscopy and CCSD(T) calculations of the Cl−⋯N2 complex
 authors:
-- Peter D. Watson
+- admin
 - Hai-wang Yong
 - Kim M. L. Lapere
 - Marcus Kettner
