@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Peter Watson
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Peter
+last_name: Watson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Forrest Fellow, Lecturer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Curtin University
+    url: 'https://www.curtin.edu.au/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,7 +64,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
