@@ -28,7 +28,10 @@ abstract: The gas phase anion photoelectron spectra are presented for the halide
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Spectroscopy
+- Gas phase anions
+- Photoelectron
+- Mass spectrometry
 featured: false
 
 # links:
@@ -46,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**ACS, JPCA.**](https://pubs.acs.org/doi/10.1021/acs.jpca.5b06348)'
   focal_point: ""
   preview_only: false
 
@@ -62,5 +65,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
