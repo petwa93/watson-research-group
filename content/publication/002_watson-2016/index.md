@@ -1,5 +1,5 @@
 ---
-title: Anion photoelectron spectroscopy and CCSD(T) calculations of the Cl−⋯N2 complex
+title: Anion photoelectron spectroscopy and CCSD(T) calculations of the Cl<sup>−</sup>$\cdots$ N<sub>2</sub> complex
 authors:
 - admin
 - Hai-wang Yong
