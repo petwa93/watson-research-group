@@ -1,5 +1,5 @@
 ---
-title: Photoelectron Spectroscopy and Structures of X<sup>−</sup>$\cdots$CH<sub>2</sub>O (X=F, Cl, Br, I) Complexes
+title: Photoelectron Spectroscopy and Structures of X-...CH2O (X=F, Cl, Br, I) Complexes
 authors:
 - Timothy R. Corkish
 - Christian T. Haakansson

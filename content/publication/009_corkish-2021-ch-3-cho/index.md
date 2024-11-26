@@ -1,5 +1,5 @@
 ---
-title: Towards an Understanding of Halide Interactions with the Carbonyl-Containing Molecule CH<sub>3</sub>CHO
+title: Towards an Understanding of Halide Interactions with the Carbonyl-Containing Molecule CH3CHO
 authors:
 - Timothy R. Corkish
 - Christian T. Haakansson
