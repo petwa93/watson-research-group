@@ -1,6 +1,5 @@
 ---
-title: 'Asymmetric halogen dioxides: High level calculations and anion photoelectron
-  spectroscopy'
+title: 'Asymmetric halogen dioxides: High level calculations and anion photoelectron spectroscopy'
 authors:
 - admin
 - Allan J. McKinley
@@ -25,7 +24,7 @@ links:
   url: https://www.sciencedirect.com/science/article/pii/S0022285220300886
 
 image:
-  caption: 'Image credit: [**Elsevier, J. Mol. Spec**](https://www.sciencedirect.com/science/article/abs/pii/S0022285220300886
+  caption: 'Image credit: [**Elsevier, J. Mol. Spec.**](https://www.sciencedirect.com/science/article/abs/pii/S0022285220300886
   )'
   focal_point: ""
   preview_only: false
