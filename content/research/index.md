@@ -2,7 +2,7 @@
 title: Research
 date: 2024-12-05
 
-type: landing
+type: project
 
 sections:
   - block: slider
