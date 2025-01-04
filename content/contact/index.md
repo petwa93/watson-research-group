@@ -22,9 +22,8 @@ sections:
       coordinates:
         latitude: '-32.01183333'
         longitude: '115.8928056'
-      directions:
-        - 'Lab: Building 500'
-        - 'Office: Building 204'
+      directions: 'Lab: Building 500'
+      #  - 'Office: Building 204'
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
