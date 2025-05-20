@@ -5,36 +5,37 @@
 
 main:
   - name: Tour
-    url: tour
+    url: /tour
     weight: 10
   - name: News
-    url: post
+    url: /post
     weight: 20
   - name: People
-    url: people
+    url: /people
     weight: 30
   - name: Research
-    url: research
+    url: /research
     identifier: research
     weight: 40
   - name: Spectroscopy of Liquid Jets
-    url: research/liquid_jets
+    url: /research/liquid_jets
     parent: research
     weight: 41
   - name: High Resolution Spectroscopy
-    url: research/high_res
+    url: /research/high_res
     parent: research
     weight: 42
   - name: Cluster Chemistry in Space
-    url: research/metal_clusters
+    url: /research/metal_clusters
     parent: research
     weight: 43
   - name: Events
-    url: event
+    url: /event
     weight: 50
   - name: Publications
-    url: publication
+    url: /publication
     weight: 60
   - name: Contact
-    url: contact
+    url: /contact
     weight: 70
+
