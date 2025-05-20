@@ -4,10 +4,17 @@ summary: "An overview of our research project investigating the spectroscopic pr
 date: 2025-05-20
 tags: ["Spectroscopy", "Microjets", "Research"]
 categories: ["Projects"]
-external_link: ""
-#image = "media/project/liquid-microjets.jpg"
 featured: true
+#image: "media/project/liquid-microjets.jpg"
 draft: false
+external_link: ""
+
+# Optional: Link to a publication or PDF
+#links:
+#  - icon: file-text
+#    icon_pack: fas
+#    name: "Read More"
+#    url: "/files/liquid-microjets-overview.pdf"
 ---
 
 ## Overview
@@ -16,16 +23,16 @@ Spectroscopy of liquid microjets is a powerful technique for studying the electr
 
 ## Objectives
 
-- Investigate solvation dynamics
-- Study surface and bulk electronic structure
+- Investigate solvation dynamics  
+- Study surface and bulk electronic structure  
 - Explore time-resolved techniques
 
 ## Methods
 
 We use ultraviolet and X-ray photoelectron spectroscopy with:
 
-- High-precision micro-nozzles
-- Differential pumping
+- High-precision micro-nozzles  
+- Differential pumping  
 - Time-of-flight analyzers
 
 ## Collaborators
