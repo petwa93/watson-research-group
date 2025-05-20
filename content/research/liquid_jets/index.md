@@ -2,7 +2,7 @@
 title: "Spectroscopy of Liquid Microjets"
 date: 2025-05-20
 type: "page"
-layout: "project" # Custom layout, optional
+#layout: "project" # Custom layout, optional
 draft: false
 summary: "An overview of our research project investigating the spectroscopic properties of liquid microjets."
 ---
