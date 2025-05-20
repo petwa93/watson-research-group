@@ -1,43 +1,39 @@
 ---
 title: "Spectroscopy of Liquid Microjets"
-date: 2025-05-20
-type: "page"
-#layout: "project" # Custom layout, optional
-draft: false
 summary: "An overview of our research project investigating the spectroscopic properties of liquid microjets."
+date: 2025-05-20
+tags: ["Spectroscopy", "Microjets", "Research"]
+categories: ["Projects"]
+external_link: ""
+#image = "media/project/liquid-microjets.jpg"
+featured: true
+draft: false
 ---
 
 ## Overview
 
-Spectroscopy of liquid microjets is a powerful technique for studying the electronic and molecular structure of liquids in vacuum. By producing a continuous stream of liquid through a micro-nozzle, this method enables high-resolution photoelectron spectroscopy of volatile and nonvolatile liquids.
+Spectroscopy of liquid microjets is a powerful technique for studying the electronic and molecular structure of liquids in vacuum.
 
 ## Objectives
 
-- Investigate solvation dynamics at the molecular level.
-- Study surface and bulk electronic structure.
-- Explore time-resolved spectroscopy techniques.
+- Investigate solvation dynamics
+- Study surface and bulk electronic structure
+- Explore time-resolved techniques
 
 ## Methods
 
-We employ ultraviolet and soft X-ray photoelectron spectroscopy in a custom-designed vacuum system. The setup includes:
+We use ultraviolet and X-ray photoelectron spectroscopy with:
 
-- High-precision micro-nozzles.
-- Differential pumping stages.
-- Time-of-flight and hemispherical analyzers.
+- High-precision micro-nozzles
+- Differential pumping
+- Time-of-flight analyzers
 
-## Collaborations
+## Collaborators
 
-This project is conducted in collaboration with:
-
-- The Institute of Molecular Science
-- National Synchrotron Light Source
+- Institute of Molecular Science  
+- National Synchrotron Light Source  
 - University of Spectroscopic Research
-
-## Publications
-
-- Smith et al., *J. Chem. Phys.*, 2023.
-- Doe et al., *Phys. Chem. Lett.*, 2024.
 
 ## Contact
 
-For more information, contact [project@researchlab.org](mailto:project@researchlab.org).
+For more info, contact [project@researchlab.org](mailto:project@researchlab.org).
