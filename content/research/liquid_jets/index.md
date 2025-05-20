@@ -40,4 +40,4 @@ This project is conducted in collaboration with:
 
 ## Contact
 
-# For more information, contact [project@researchlab.org](mailto:project@researchlab.org).
+For more information, contact [project@researchlab.org](mailto:project@researchlab.org).
