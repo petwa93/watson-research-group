@@ -14,7 +14,7 @@ main:
     url: /people
     weight: 30
   - name: Research
-    url: /research
+    url: /research/
     identifier: research
     weight: 40
   - name: Spectroscopy of Liquid Jets
