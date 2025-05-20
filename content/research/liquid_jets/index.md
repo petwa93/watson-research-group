@@ -29,7 +29,7 @@ Spectroscopy of liquid microjets is a powerful technique for studying the electr
 
 ## Methods
 
-We use ultraviolet and X-ray photoelectron spectroscopy with:
+We use ultraviolet and photoelectron spectroscopy with:
 
 - High-precision micro-nozzles  
 - Differential pumping  
