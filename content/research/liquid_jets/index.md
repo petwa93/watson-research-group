@@ -2,8 +2,8 @@
 title: "Spectroscopy of Liquid Microjets"
 summary: "An overview of our research project investigating the spectroscopic properties of liquid microjets."
 date: 2025-05-20
-tags: ["Spectroscopy", "Microjets", "Research"]
-categories: ["Projects"]
+#tags: ["Spectroscopy", "Microjets", "Research"]
+#categories: ["Projects"]
 featured: true
 #image: "media/project/liquid-microjets.jpg"
 draft: false
