@@ -50,7 +50,12 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          echo "Content Directory Structure:"
+          find ./content -type f | sort
+          echo "Building site..."
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" --verbose
+          echo "Public Directory Structure:"
+          find ./public -type f | sort
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
