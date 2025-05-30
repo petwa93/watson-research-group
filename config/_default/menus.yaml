@@ -14,11 +14,11 @@ main:
     url: /people
     weight: 30
   - name: Research
-    #url: /research/
+    url: /research/
     identifier: research
     weight: 40
   - name: Spectroscopy of Liquid Jets
-    url: https://watsonlaserlab.com/research/liquid_jets/
+    url: /research/liquid_jets/
     parent: research
     weight: 41
   - name: High Resolution Spectroscopy

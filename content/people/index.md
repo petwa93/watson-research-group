@@ -16,6 +16,7 @@ sections:
           - PhD Students
           - Honours Students
           - Masters Students
+          - Project Students
           - Administration
           - Visitors
           - Alumni
