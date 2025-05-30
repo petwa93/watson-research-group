@@ -21,14 +21,18 @@ main:
     url: /research/liquid_jets/
     parent: research
     weight: 41
+  - name: Laser Ablation Synthesis
+    url: /research/lasis/
+    parent: research
+    weight: 42
   - name: High Resolution Spectroscopy
     url: /research/high_res
     parent: research
-    weight: 42
+    weight: 43
   - name: Cluster Chemistry in Space
     url: /research/metal_clusters
     parent: research
-    weight: 43
+    weight: 44
   - name: Events
     url: /event
     weight: 50
