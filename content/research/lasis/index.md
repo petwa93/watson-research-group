@@ -28,19 +28,21 @@ slides: ""
 
 ## Overview
 
-Laser Ablation Synthesis in Solution (LASiS) is a physiochemical synthetic technique for the production of nanoparticles.
+Laser Ablation Synthesis in Solution (LASiS) is a physiochemical synthetic technique for the production of nanoparticles. By controlling the power and wavelength of the laser, composition of the solution or ablation medium, and the ablated material itself, high value materials can be produced without the production of chemical waste.
 
-## Objectives
+## Current Scope
 
-- Investigate solvation dynamics  
-- Study surface and bulk electronic structure  
-- Explore time-resolved techniques
+LASiS is a mature technique, with a demonstrated scientific basis both overseas, and within Curtin University by Prof. Mark Buntine. However with the reduction of cost and increased capabilities of modern laser systems, there is the potential to produce high value materials at comparable scale to wet chemistry techniques.
+
+Current work in the Watson Group involves the construction of a LASiS platform
+
+<img style="float: right;" src="LASiS_setup.tiff" max-width=50% width=auto height=auto>
 
 ## Methods
 
 LASiS is highly tunable:
 
-<img style="float: right;" src="experiment_setup.jpg" max-width=50% width=auto height=auto>
+
 
 ## Collaborators
 
