@@ -40,15 +40,14 @@ Laser Ablation Synthesis in Solution (LASiS) is a physiochemical synthetic techn
 
 LASiS is highly tunable:
 
-- High-precision micro-nozzles  
-- Differential pumping  
-- Time-of-flight analyzers
+<img style="float: right;" src="experiment_setup.jpg" max-width=50% width=auto height=auto>
 
 ## Collaborators
 
-- Institute of Molecular Science  
-- National Synchrotron Light Source  
-- University of Spectroscopic Research
+- [Prof. Mark Buntine](https://staffportal.curtin.edu.au/staff/profile/view/mark-buntine-b13d277f/)  
+- [Prof. Zongping Shao](https://staffportal.curtin.edu.au/staff/profile/view/zongping-shao-0c4e5680/)
+- [Dr. Xiaomin Xu](https://staffportal.curtin.edu.au/staff/profile/view/xiaomin-xu-23194b41/)
+- [Dr. Jiayi Tang](https://scholar.google.com/citations?user=zSBOy40AAAAJ&hl=zh-CN)
 
 ## Contact
 
