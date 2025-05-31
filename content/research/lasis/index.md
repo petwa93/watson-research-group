@@ -36,7 +36,7 @@ LASiS is a mature technique, with a demonstrated scientific basis both overseas,
 
 Current work in the Watson Group involves the construction of a LASiS platform
 
-<img style="float: right;" src="LASiS_setup.tiff" max-width=50% width=auto height=auto>
+<img style="float: right;" src="LASiS_setup.png" max-width=50% width=auto height=auto>
 
 ## Methods
 
