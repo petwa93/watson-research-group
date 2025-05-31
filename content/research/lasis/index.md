@@ -34,15 +34,24 @@ Laser Ablation Synthesis in Solution (LASiS) is a physiochemical synthetic techn
 
 LASiS is a mature technique, with a demonstrated scientific basis both overseas, and within Curtin University by Prof. Mark Buntine. However with the reduction of cost and increased capabilities of modern laser systems, there is the potential to produce high value materials at comparable scale to wet chemistry techniques.
 
-Current work in the Watson Group involves the construction of a LASiS platform
+Current work in the Watson Group involves the construction of a LASiS platform for nanoparticle production. 
 
-<img style="float: right;" src="LASiS_setup.png" max-width=50% width=auto height=auto>
+<figure style="float: right; max-width: 50%; margin-left: 20px;">
+  <img src="trailblazer.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+  </figcaption>
+</figure>
 
 ## Methods
 
 LASiS is highly tunable:
 
-
+<figure style="float: right; max-width: 50%; margin-left: 20px;">
+  <img src="LASiS_setup.png" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+    Current design of the LASiS setup currently under construction.
+  </figcaption>
+</figure>
 
 ## Collaborators
 
