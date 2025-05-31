@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: /tour
-    weight: 10
+#  - name: Tour
+#    url: /tour
+#    weight: 10
   - name: News
     url: /post
     weight: 20
@@ -33,9 +33,9 @@ main:
     url: /research/metal_clusters
     parent: research
     weight: 44
-  - name: Events
-    url: /event
-    weight: 50
+#  - name: Events
+#    url: /event
+#    weight: 50
   - name: Publications
     url: /publication
     weight: 60
