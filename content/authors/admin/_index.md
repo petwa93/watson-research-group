@@ -22,6 +22,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: A physical chemist interested in instrument design for novel chemical problems and the breadth of spectroscopic methods.
 
+research_projects:
+  - liquid_jets
+  - high_res
+  - metal_clusters
+
 interests:
   - Physical Chemistry
   - Mass Spectrometry

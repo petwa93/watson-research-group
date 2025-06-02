@@ -1,0 +1,34 @@
+{{ $project := .Get "project" }}
+{{ $authors := where site.RegularPages "Section" "authors" }}
+{{ $project_authors := slice }}
+
+{{ range $authors }}
+  {{ if in .Params.research_projects $project }}
+    {{ $project_authors = $project_authors | append . }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $project_authors) 0 }}
+<div class="research-team">
+  <div class="row">
+    {{ range $project_authors }}
+    <div class="col-md-4 mb-3">
+      <div class="card">
+        {{ if .Params.avatar }}
+        <img src="{{ .Params.avatar }}" class="card-img-top" alt="{{ .Title }}">
+        {{ end }}
+        <div class="card-body">
+          <h5 class="card-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h5>
+          <p class="card-text">{{ .Params.role }}</p>
+          {{ if .Params.bio }}
+          <p class="card-text"><small class="text-muted">{{ truncate 100 .Params.bio }}</small></p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
