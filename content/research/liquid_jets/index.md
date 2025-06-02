@@ -6,6 +6,13 @@ date: 2025-05-20
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+authors:
+  - peter-watson
+  - admin  # Add other researchers as needed
+tags:
+  - Physical Chemistry
+  - Spectroscopy
+
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
 # image:

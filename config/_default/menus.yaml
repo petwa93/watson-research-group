@@ -4,41 +4,46 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-#  - name: Tour
-#    url: /tour
-#    weight: 10
+  - name: Home
+    url: '/'
+    weight: 10
   - name: News
     url: /post
     weight: 20
-  - name: People
-    url: /people
-    weight: 30
   - name: Research
-    url: /research/
-    identifier: research
-    weight: 40
+    url: '/research/'
+    weight: 30
   - name: Spectroscopy of Liquid Jets
-    url: /research/liquid_jets/
+    url: '/research/liquid_jets/'
     parent: research
-    weight: 41
+    weight: 31
   - name: Laser Ablation Synthesis
-    url: /research/lasis/
+    url: '/research/lasis/'
     parent: research
-    weight: 42
+    weight: 32
   - name: High Resolution Spectroscopy
-    url: /research/high_res
+    url: '/research/high_res'
     parent: research
-    weight: 43
+    weight: 33
   - name: Cluster Chemistry in Space
-    url: /research/metal_clusters
+    url: '/research/metal_clusters'
     parent: research
-    weight: 44
+    weight: 34
+  - name: Publications
+    url: '/publication/'
+    weight: 40
+  - name: People
+    url: '/people/'
+    weight: 50
+  - name: Contact
+    url: '/contact/'
+    weight: 60
+
+#  - name: Tour
+#    url: /tour
+#    weight: 10
+
 #  - name: Events
 #    url: /event
 #    weight: 50
-  - name: Publications
-    url: /publication
-    weight: 60
-  - name: Contact
-    url: /contact
-    weight: 70
+
