@@ -52,16 +52,11 @@ sections:
         
         **Current Openings:**
         
-        <!-- Add specific PhD positions here when available -->
         🔬 **PhD Position in Liquid Microjet Spectroscopy** - *Available Now*  
         [View Details & Apply](https://example-university.edu/phd-position-1) | Application Deadline: July 15, 2025
         
         🔬 **PhD Position in High-Resolution Spectroscopy** - *Starting Fall 2025*  
         [View Details & Apply](https://example-university.edu/phd-position-2) | Application Deadline: August 1, 2025
-        
-        <!-- Template for future positions -->
-        <!-- 🔬 **Position Title** - *Status*  
-        [View Details & Apply](URL) | Application Deadline: Date -->
         
     design:
       columns: '1'
@@ -99,16 +94,11 @@ sections:
         
         **Current Openings:**
         
-        <!-- Add specific postdoc positions here when available -->
         🧪 **Postdoctoral Fellow - Atmospheric Chemistry** - *Available Immediately*  
         [View Details & Apply](https://example-university.edu/postdoc-position-1) | Review begins: June 15, 2025
         
         🧪 **Postdoctoral Researcher - Laser Development** - *Starting September 2025*  
         [View Details & Apply](https://example-university.edu/postdoc-position-2) | Application Deadline: July 30, 2025
-        
-        <!-- Template for future positions -->
-        <!-- 🧪 **Position Title** - *Status*  
-        [View Details & Apply](URL) | Application Deadline: Date -->
         
     design:
       columns: '1'
@@ -150,18 +140,17 @@ sections:
       background:
         color: '#f8f9fa'
 
-  - block: cta
+  - block: markdown
     content:
-      title: "Ready to Join Us?"
-      text: "Get in touch to discuss opportunities in the Watson Laser Lab"
-      cta:
-        label: "Contact Us"
-        url: "/contact/"
-        icon_pack: fas
-        icon: paper-plane
+      title: ""
+      text: |
+        <div style="text-align: center; padding: 3rem 2rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); border-radius: 1rem; margin: 2rem 0;">
+          <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem;">Ready to Join Us?</h2>
+          <p style="color: white; font-size: 1.1rem; margin-bottom: 2rem;">Get in touch to discuss opportunities in the Watson Laser Lab</p>
+          <a href="/contact/" style="display: inline-block; background: white; color: #2563eb; padding: 1rem 2rem; border-radius: 0.5rem; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
+            📧 Contact Us
+          </a>
+        </div>
     design:
-      background:
-        gradient_start: '#2563eb'
-        gradient_end: '#1d4ed8'
-        text_color_light: true
+      columns: '1'
 ---
