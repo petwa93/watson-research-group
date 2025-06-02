@@ -7,7 +7,6 @@ date: 2025-05-20
 external_link: ""
 
 authors:
-  - peter-watson
   - admin  # Add other researchers as needed
 tags:
   - Physical Chemistry
@@ -33,30 +32,4 @@ tags:
 slides: ""
 ---
 
-## Overview
-
-Spectroscopy of liquid microjets is a powerful technique for studying the electronic and molecular structure of liquids in vacuum.
-
-## Objectives
-
-- Investigate solvation dynamics  
-- Study surface and bulk electronic structure  
-- Explore time-resolved techniques
-
-## Methods
-
-We use ultraviolet and photoelectron spectroscopy with:
-
-- High-precision micro-nozzles  
-- Differential pumping  
-- Time-of-flight analyzers
-
-## Collaborators
-
-- Institute of Molecular Science  
-- National Synchrotron Light Source  
-- University of Spectroscopic Research
-
-## Contact
-
-For more info, contact [project@researchlab.org](mailto:project@researchlab.org).
+This page is currently under construction! Check back soon for more detail.

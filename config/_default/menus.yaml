@@ -11,32 +11,32 @@ main:
     url: /post
     weight: 20
   - name: Research
-    url: '/research/'
+    url: /research/
     weight: 30
   - name: Spectroscopy of Liquid Jets
-    url: '/research/liquid_jets/'
+    url: /research/liquid_jets/
     parent: research
     weight: 31
   - name: Laser Ablation Synthesis
-    url: '/research/lasis/'
+    url: /research/lasis/
     parent: research
     weight: 32
   - name: High Resolution Spectroscopy
-    url: '/research/high_res'
+    url: /research/high_res
     parent: research
     weight: 33
   - name: Cluster Chemistry in Space
-    url: '/research/metal_clusters'
+    url: /research/metal_clusters
     parent: research
     weight: 34
   - name: Publications
-    url: '/publication/'
+    url: /publication/
     weight: 40
   - name: People
-    url: '/people/'
+    url: /people/
     weight: 50
   - name: Contact
-    url: '/contact/'
+    url: /contact/
     weight: 60
 
 #  - name: Tour
