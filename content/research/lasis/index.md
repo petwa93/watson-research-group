@@ -62,12 +62,6 @@ As a photophysical synthesis process the tunability of LASiS is governed by the 
   </figcaption>
 </figure>
 
-## Research Team
-
-This project involves the following team members:
-
-{{< research-team project="liquid_jets" >}}
-
 ## Collaborators
 
 - [Prof. Mark Buntine](https://staffportal.curtin.edu.au/staff/profile/view/mark-buntine-b13d277f/)  
