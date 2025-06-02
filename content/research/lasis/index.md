@@ -46,9 +46,11 @@ We hope to commence nanoparticle production and the exploration of these methods
 
 ## Why LASiS?
 
-LASiS is highly tunable:
+(Describe differences)
 
-<figure style="max-width: 50%; margin: 20px auto; display: block;">
+As a photophysical synthesis process the tunability of LASiS is governed by the variability of the ablation system. This can include the wavelength of light used in the ablation process, the photon flux at the surface of the material, the temperature and by extension viscosity of the solvent used and the presence of salts in the solvent mixture. These parameters also differ depending on the ablation material and target size distribution.
+
+<figure style="max-width: 100%; margin: 20px auto; display: block;">
   <img src="LASiS_setup.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
     Current design of the LASiS setup currently under construction.
