@@ -23,15 +23,9 @@ organizations:
 bio: A physical chemist interested in instrument design for novel chemical problems and the breadth of spectroscopic methods.
 
 research_projects:
-  - name: "Liquid Jets Research"
-    url: "/research/liquid_jets/"
-    description: "Advanced liquid jet systems for spectroscopic applications"
-  - name: "High Resolution Spectroscopy"  
-    url: "/research/high_res/"
-    description: "Development of high-resolution spectroscopic techniques"
-  - name: "Metal Clusters and Complexes"
-    url: "/research/metal_clusters/"
-    description: "Infrared spectroscopy of metal clusters and complexes"
+  - liquid_jets
+  - high_res  
+  - metal_clusters
 
 interests:
   - Physical Chemistry
