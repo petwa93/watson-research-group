@@ -15,19 +15,19 @@ main:
     weight: 30
   - name: Spectroscopy of Liquid Jets
     url: /research/liquid_jets/
-    parent: research
+    parent: Research
     weight: 31
   - name: Laser Ablation Synthesis
     url: /research/lasis/
-    parent: research
+    parent: Research
     weight: 32
   - name: High Resolution Spectroscopy
     url: /research/high_res
-    parent: research
+    parent: Research
     weight: 33
   - name: Cluster Chemistry in Space
     url: /research/metal_clusters
-    parent: research
+    parent: Research
     weight: 34
   - name: Publications
     url: /publication/
