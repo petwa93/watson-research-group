@@ -10,7 +10,7 @@ sections:
       title: |
         Watson Laser Lab
       image:
-        filename: welcome.jpg
+        filename: B500.jpg
       text: |
         <br>
         
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: LuJ_machine.jpg
           filters:
             brightness: 1
           parallax: false
