@@ -55,6 +55,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=H4kL60UAAAAJ
+  - icon: linkedin
+    icon_pack: brands
+    link: https://www.linkedin.com/in/peter-watson1993/
+  - icon: orcid
+    icon_pack: brands
+    link: https://orcid.org/0000-0002-8195-1232
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
