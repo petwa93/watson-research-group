@@ -57,10 +57,10 @@ social:
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?user=H4kL60UAAAAJ
   - icon: linkedin
-    icon_pack: brands
+    icon_pack: fa
     link: https://au.linkedin.com/in/max-davidson-05a2046b
   - icon: orcid
-    icon_pack: brands
+    icon_pack: ai
     link: https://orcid.org/0000-0003-2740-7786
 #  - icon: github
 #    icon_pack: fab
