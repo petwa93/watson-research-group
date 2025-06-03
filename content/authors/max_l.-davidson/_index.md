@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Max Lorimer Davidson
+title: Max L. Davidson
 
 # Full Name (for SEO)
 first_name: Max
@@ -35,6 +35,9 @@ education:
     - course: PhD in Chemistry
       institution: University of Western Australia
       year: 2024
+    - course: Grad. Cert. (Scientific and High Performance Computing)
+      institution: University of Western Australia
+      year: 2019 
     - course: BPhil(Hons) Chemistry
       institution: University of Western Australia
       year: 2018
