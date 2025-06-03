@@ -51,7 +51,7 @@ We hope to commence nanoparticle production and the exploration of these methods
 
 ## Why LASiS?
 
-(Describe differences)
+Traditional wet chemistry techniques have been used since the late 1800s for the production of metal nanoparticles. However, these synthetic routes typically involved the use of harsh reducing agents such as sodium borohydride (NaBH<sub>4</sub>). This not only produces waste biproduct but introduces hazards for handling safely. While LASiS utilises powerful (typically Class 4) laser systems, the avoidance of using these reductants and general workflow lends itself to scaling to industrially relevant production rates.
 
 As a photophysical synthesis process the tunability of LASiS is governed by the variability of the ablation system. This can include the wavelength of light used in the ablation process, the photon flux at the surface of the material, the temperature and by extension viscosity of the solvent used and the presence of salts in the solvent mixture. These parameters also differ depending on the ablation material and target size distribution.
 
