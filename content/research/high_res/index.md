@@ -1,6 +1,6 @@
 ---
 title: "High Resolution Spectroscopy"
-summary: "Currently Under Construction."
+summary: "Utilising bright light sources to study molecules with extraterrestrial relevance."
 date: 2025-05-30
 
 project_id: high-res
@@ -31,4 +31,50 @@ authors:
 slides: ""
 ---
 
-This page is currently under construction! Check back soon for more detail.
+## Overview
+
+Molecular spectrocopy utilises light to understand the structure of molecules, typically their electronic, vibrational and rotational structure. Conventional absorption methods measure the amount light is absorbed when passing through a sample, governed by the Beer-Lambert Law:
+
+$$
+\log\frac{I_0}{I} = \epsilon \ell c
+$$
+
+where $I$ is the transmitted intensity, $I_0$ is the incident intensity, $\epsilon$ is the frequency-dependent absorption coefficient, $c$ is the concentration of the sample and $\ell$ is the path length.
+
+In cases where the value of $\epsilon$ is small and it is difficult to detect a meaningful change in the transmitted light a number of strategies are available:
+- observe some other light dependant process like photofragmentation where detection is more sensitive;
+- increase the concentration of the sample (though depending on the species and overall pressure this can itself lead to broadening of the spectra recorded); and/or
+- increase the path length.
+
+The last of which is what we employ predominantly here. While a long path length cell is often impractical, multi-pass cells where the light is transmitted through the sample a number of times have a similar effect. Effectively folding the length of the cell over itself multiple times.
+
+## Current Scope
+
+In these experiments we utilise bright, broadband synchrotron radiation in the far infrared to measure the absorption of molecular species in this region at high resolution (0.00096 cm<sup>-1</sup>). The far-IR region is where species absorb via vibrational and rotational transitions, and fitting and modelling these IR spectra yields highly accurate structural information of the species present.
+
+<figure style="max-width: 80%; margin: 20px auto; display: block;">
+  <img src="aus_synchro_thz.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+    The far-IR/THz endstation at the Australian Synchrotron.
+  </figcaption>
+</figure>
+
+We currently have ongoing projects at both the Australian Synchrotron and Canadian Light Source operating in both in-person and remote working modes. This work is in close collaboration with [Dr. Duncan Wild](https://watsonlaserlab.com/author/duncan-a.-wild/) and former Wild Group member Christian Haakansson, now working at the Univerity of Oxford.
+
+<figure style="max-width: 80%; margin: 20px auto; display: block;">
+  <img src="thz_june_2024.jpg" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+    [Peter](https://watsonlaserlab.com/author/peter-watson/) and [Duncan](https://watsonlaserlab.com/author/duncan-a.-wild/) during the most recent trip to the Australian Synchrotron in June 2024.
+  </figcaption>
+</figure>
+
+## Collaborators
+
+- [Dr. Duncan Wild](https://watsonlaserlab.com/author/duncan-a.-wild/)
+- [A/Prof. Evan Robertson](https://scholars.latrobe.edu.au/erobertson)
+- [Dr. Dominique Appadoo](https://www.ansto.gov.au/people/dr-dominique-dom-appadoo)
+- [Dr. Brant Billinghurst](https://ca.linkedin.com/in/brant-billinghurst-51497111b)
+
+## Contact
+
+For more info, contact [peter@watsonlaserlab.com](mailto:peter@watsonlaserlab.com).
