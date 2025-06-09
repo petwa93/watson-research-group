@@ -64,7 +64,7 @@ We currently have ongoing projects at both the Australian Synchrotron and Canadi
 <figure style="max-width: 80%; margin: 20px auto; display: block;">
   <img src="thz_june_2024.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
-    [Peter](https://watsonlaserlab.com/author/peter-watson/) and [Duncan](https://watsonlaserlab.com/author/duncan-a.-wild/) during the most recent trip to the Australian Synchrotron in June 2024.
+     <a href="https://watsonlaserlab.com/author/peter-watson/">Peter</a> and <a href="https://watsonlaserlab.com/author/duncan-a.-wild/">Duncan</a> during the most recent trip to the Australian Synchrotron in June 2024.
   </figcaption>
 </figure>
 
