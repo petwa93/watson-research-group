@@ -3,7 +3,7 @@ title: "Laser Ablation Synthesis in Solution (LASiS)"
 summary: "Using laser technologies to ablate materials for the production of nanoparticles."
 date: 2025-05-30
 
-project_id: liquid_jets
+project_id: lasis
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

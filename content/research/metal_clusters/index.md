@@ -35,7 +35,7 @@ slides: ""
 
 Metal clusters exhibit unique properties due to their size, structure and elemental composition. These factors provide clusters with a wide degree of tunability with respect to their electronic properties and extension afford them the facility to catalyse important reactions (CO<sub>2</sub> reduction, H<sub>2></sub>O splitting) in heterogeneous catalysis. In practice, these clusters are often studied in the gas phase whereby any interactions with a substrate are removed and focus on the activation of molecules bound to the clusters is examined by laser spectroscopy. In most cases, the density of species that is being studied is low (~10,000 or fewer) and so rather than record spectra via the absorbtion of light, some process (photofragmentation, photoionisation) is monitored using highly sensitive mass spectrometry to detect a light driven effect. This is collectively known as 'action spectroscopy'.
 
-<figure style="max-width: 80%; margin: 20px auto; display: block;">
+<figure style="max-width: 100%; margin: 20px auto; display: block;">
   <img src="action_spec_figure.png" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
     Illustration of action spectroscopy with the laser-off mass spectrum (left), laser-on mass spectrum (centre) and difference spectrum (right).

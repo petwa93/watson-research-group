@@ -82,6 +82,6 @@ user_groups:
   - Group Leader
 ---
 
-Peter Watson is a Forrest Reserach Fellow and Lecturer of Physical Chemistry at Curtin Univeristy in Perth, Australia.
+Peter Watson is a Forrest Research Fellow and Lecturer of Physical Chemistry at Curtin Univeristy in Perth, Australia.
 
 He completed his PhD at the University of Western Australia under the supervision of Dr. Duncan Wild studying photoelectron spectroscopy of halide-anion van der Waals complexes. Following completion of his PhD he took up a postdoctoral position with Prof. Stuart Mackenzie at the University of Oxford with a focus on infrared spectroscopy of metal complexes and clusters. Peter then won a Fellowship by Examination at Magdalen College, Oxford, continuing to work alongside Prof. Mackenzie before returning to Perth as a Forrest Fellow.

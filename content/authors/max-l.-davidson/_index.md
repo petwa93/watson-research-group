@@ -23,7 +23,7 @@ organizations:
 bio: A computational chemist interested in utilising data and theory to improve any and all physical chemistry problems.
 
 research_projects:
-  - metal_clusters
+  - metal-clusters
 
 interests:
   - Computational Chemistry
