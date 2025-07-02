@@ -10,7 +10,7 @@ last_name: Biagioni
 superuser: false
 
 # Role/position
-role: Project Student
+role: Honours Student
 
 research_projects:
   - metal-clusters
