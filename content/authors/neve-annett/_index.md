@@ -65,7 +65,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: Project Students
+user_groups:
+  - Project Students 
 ---
 
 Neve Annett is an undergraduate chemical engineering student at Curtin University in Perth, Australia. She is currently due to complete her degree midway through 2026. Neve's current honours research project is studying spectroscopy of astrochemically relevant cation Fe clusters with acetylene. Outside of university Neve has worked in coal mining in a student process engineer role and currently works in Finance part-time.  

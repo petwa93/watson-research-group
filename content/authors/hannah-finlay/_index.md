@@ -60,7 +60,8 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: Project Students
+user_groups:
+  - Project Students 
 ---
 
 Hannah Finlay is a undergraduate chemical engineering & economics student at Curtin University in Perth, Australia.
