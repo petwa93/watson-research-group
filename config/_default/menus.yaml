@@ -37,12 +37,15 @@ main:
     weight: 50
   - name: People
     url: '/team/people/'
+    parent: Team
     weight: 51
 #  - name: Values
 #    url: '/team/values/'
+#    parent: Team
 #    weight: 52
-  - name: People
+  - name: Vacancies
     url: '/team/vacancies/'
+    parent: Team
     weight: 53
   - name: Contact
     url: '/contact/'
