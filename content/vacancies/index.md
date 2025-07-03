@@ -172,15 +172,14 @@ sections:
 
   - block: markdown
     content:
-      title: ""
+      title: "Ready to Join Us?"
       text: |
-        <div style="text-align: center; padding: 3rem 2rem; background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); border-radius: 1rem; margin: 2rem 0;">
-          <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem;">Ready to Join Us?</h2>
-          <p style="color: white; font-size: 1.1rem; margin-bottom: 2rem;">Get in touch to discuss opportunities in the Watson Laser Lab</p>
-          <a href="/contact/" style="display: inline-block; background: white; color: #2563eb; padding: 1rem 2rem; border-radius: 0.5rem; text-decoration: none; font-weight: bold; transition: all 0.3s ease;">
-            📧 Contact Us
-          </a>
-        </div>
+        Get in touch to discuss opportunities in the Watson Laser Lab.
+        
+        [📧 Contact Us](/contact/)
+        
     design:
       columns: '1'
+      background:
+        color: '#f8f9fa'
 ---
