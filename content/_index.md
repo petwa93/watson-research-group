@@ -61,9 +61,9 @@ sections:
       text: ""
       count: 5
       filters:
-#        folders:
-#          - publication
-        publication_type:
+        folders:
+          - publication
+        publication_types:
           - 'article-journal'
           - 'article'
           - 'book'
