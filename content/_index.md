@@ -57,13 +57,20 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Published Work
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type:
+          - 'article-journal'
+          - 'article'
+          - 'book'
+          - 'chapter'
+        date:
+          - start: '2024-01-01'
+            end: ''
     design:
       view: citation
       columns: '1'
@@ -73,7 +80,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./team/people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
