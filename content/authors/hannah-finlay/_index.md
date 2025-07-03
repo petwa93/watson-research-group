@@ -66,5 +66,5 @@ user_groups:
 
 Hannah Finlay is a undergraduate chemical engineering & economics student at Curtin University in Perth, Australia.
 
-She is due to complete her undergraduate double degree mid 2026. Under the supervision of Dr. Peter Watson, Hannah is currently completing an honours research project working with Dr. Duncan Wild to study fluoride and cyanide ion-molecule complexes using photoelectron spectroscopy with the aim of understanding their atmospheric interactions. In addition to her studies, Hannah has completed an internship as a metallurgist at a lithium production plant.  
+She is due to complete her undergraduate double degree mid 2026. Under the supervision of Dr. Peter Watson, Hannah is currently completing an honours research project working with Dr. Duncan Wild to study [fluoride and cyanide ion-molecule complexes using photoelectron spectroscopy](https://laser.scb.uwa.edu.au/projects.TOF.html) with the aim of understanding their atmospheric interactions. In addition to her studies, Hannah has completed an internship as a metallurgist at a lithium production plant.  
 

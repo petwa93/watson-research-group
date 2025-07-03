@@ -27,7 +27,7 @@ sections:
     content:
       title: "PhD Student Positions"
       text: |
-        ### Available PhD Opportunities in Liquid Microjet Spectroscopy
+        ### Available PhD Opportunities in [Liquid Microjet Spectroscopy](https://watsonlaserlab.com/research/liquid_jets/)
         
         #### Project Overview
 
@@ -63,7 +63,7 @@ sections:
 
         If this project interests you, contact Dr Peter Watson via the [Expression of Interest](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Graduate%20Research/).
 
-        [More Information Found Here (search 'liquid')](https://research.curtin.edu.au/higher-degree-by-research/higher-degree-by-research-project-opportunities/) | Application Deadline: August 18, 2025
+        [More Information Found Here (search `liquid')](https://research.curtin.edu.au/higher-degree-by-research/higher-degree-by-research-project-opportunities/) | Application Deadline: August 18, 2025
 
 ##
 #       **Research Areas:**

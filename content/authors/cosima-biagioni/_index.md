@@ -65,4 +65,4 @@ user_groups:
 
 Cosima Biagioni is a 4th year chemical engineering student completing her honours at Curtin University in Perth, Western Australia. 
 
-She will be performing research on the Spectroscopy of Astrochemically Relevant Cationic V and Co Clusters with Acetylene, where she will be working alongside Peter as part of the Watson Group. In her free time, she experiments in the kitchen with bread and various ferments and has recently been given the title of 'Group foccacia maker' by her friends and family.
+She will be performing research on spectroscopically relevant, ligand bound, [metal clusters via infrared photodissociation spectroscopy](https://watsonlaserlab.com/research/metal_clusters/), where she will be working alongside Peter as part of the Watson Group and visiting collaborators at [HFML-FELIX](https://hfml-felix.com/). In her free time, she experiments in the kitchen with bread and various ferments and has recently been given the title of 'Group foccacia maker' by her friends and family.

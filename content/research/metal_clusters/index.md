@@ -50,6 +50,11 @@ For these experiments, the group travels to the [HFML-FELIX free-electron laser]
 
 In the coming years, the group hopes to build additional instrumentation housed at Curtin University to study the kinetics of some of these reactions to complement the spectral data obtained at FELIX. Currently, preliminary work includes the deployment of new compuational methods on the [Setonix high-performanace computing cluster](https://pawsey.org.au/systems/setonix/) lead by [Max Davidson](https://watsonlaserlab.com/author/max-l.-davidson/).
 
+## Current Students
+
+- [Neve Annett](https://watsonlaserlab.com/author/neve-annett/)
+- [Cosima Biagioni](https://watsonlaserlab.com/author/cosima-biagioni/)
+
 ## Collaborators
 
 - [A/Prof. Joost Bakker](https://www.ru.nl/en/people/bakker-j)

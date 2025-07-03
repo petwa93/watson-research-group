@@ -62,6 +62,10 @@ As a photophysical synthesis process the tunability of LASiS is governed by the 
   </figcaption>
 </figure>
 
+## Current Students
+
+- [Noah Corbett](https://watsonlaserlab.com/author/noah-corbett/)
+
 ## Collaborators
 
 - [Prof. Mark Buntine](https://staffportal.curtin.edu.au/staff/profile/view/mark-buntine-b13d277f/)  

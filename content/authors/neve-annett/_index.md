@@ -69,4 +69,4 @@ user_groups:
   - Project Students 
 ---
 
-Neve Annett is an undergraduate chemical engineering student at Curtin University in Perth, Australia. She is currently due to complete her degree midway through 2026. Neve's current honours research project is studying spectroscopy of astrochemically relevant cation Fe clusters with acetylene. Outside of university Neve has worked in coal mining in a student process engineer role and currently works in Finance part-time.  
+Neve Annett is an undergraduate chemical engineering student at Curtin University in Perth, Australia. She is currently due to complete her degree midway through 2026. Neve's current honours research project is studying spectroscopically relevant, ligand bound, [metal clusters via infrared photodissociation spectroscopy](https://watsonlaserlab.com/research/metal_clusters/). Outside of university Neve has worked in coal mining in a student process engineer role and currently works in Finance part-time.  
