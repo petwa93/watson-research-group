@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -71,6 +71,7 @@ sections:
         date:
           - start: '2024-01-01'
           - end: ''
+        recursive: true
     design:
       view: citation
       columns: '1'
