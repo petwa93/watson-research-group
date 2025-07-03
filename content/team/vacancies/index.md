@@ -47,19 +47,19 @@ sections:
 
         The significance of this work is to understand how the reactivity of molecules emitted into the atmosphere changes at liquid-air interfaces such as those in aerosols. While atmospheric models are becoming increasingly sophisticated, reactions at interfaces are limited. How does reactivity change under solvated conditions and does the composition of solvent systems further effect this?
 
-        ####Ideal Candidate 
+        **Ideal Candidate**
 
         This project would suit a self-motivated PhD candidate with a background in either chemistry, physics or chemical engineering (must be eligible to enrol in PhD programs at Curtin). This project is designed to be approachable with a focus on research training and prospective candidates should be inquisitive and demonstrate an eagerness to learn and develop new skills. Experience in spectroscopy or the use of lasers is ideal. Desirable skills also include the ability to project manage and maintain requisite safety documentation, familiarity with common electronic structure packages, programming with a focus on instrument control and data acquisition, and basic electronics.
 
         This project is open to domestic and international applicants.
 
-        ####Scholarships at Curtin              
+        **Scholarships at Curtin**            
 
         Explore [Scholarship opportunities](https://www.curtin.edu.au/study/scholarships/find-a-scholarship/#!/?page=1&perPage=10&filters=CourseType:HDR,AwardBase:MERIT,PublishedState:OPENING:OPEN) available to HDR students at Curtin. If you are identified as the preferred candidate for this project, you may be considered for an [RTP scholarship](https://scholarships.curtin.edu.au/Scholarship/?id=7172).
 
         Undertaking a predefined Higher Degree by Research project is your chance to help turn new discoveries into real solutions. Learn more about [Higher Degree by Research | Curtin University](https://www.curtin.edu.au/study/higher-degree-by-research/) and the [RTP Scholarship process](https://www.curtin.edu.au/study/scholarships/research-training-program-rtp-scholarships/).
 
-        ####Enquiries
+        **Enquiries**
 
         If this project interests you, contact Dr Peter Watson via the [Expression of Interest](https://forms.curtin.edu.au/Produce/Form/External%20Forms/Graduate%20Research/).
 
