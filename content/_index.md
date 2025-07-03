@@ -70,7 +70,7 @@ sections:
           - 'chapter'
         date:
           - start: '2024-01-01'
-            end: ''
+          - end: ''
     design:
       view: citation
       columns: '1'
