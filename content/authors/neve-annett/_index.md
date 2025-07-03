@@ -25,8 +25,7 @@ bio: A Chemical Engineering student interested in selective catalyst research an
 
 interests:
   - Spectroscopy
-  - Cationic Fe Metal Clusters
-  - Astronomical significance of gaseous Fe
+  - Astronomical significance of gaseous metal clusters
   - Polycyclic aromatic carbons and industrial applications 
   - AFL
   - Cooking

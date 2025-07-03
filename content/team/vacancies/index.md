@@ -27,7 +27,7 @@ sections:
     content:
       title: "PhD Student Positions"
       text: |
-        ### Available PhD Opportunities in [Liquid Microjet Spectroscopy](https://watsonlaserlab.com/research/liquid_jets/)
+        ### Available RTP Opportunities in [Liquid Microjet Spectroscopy](https://watsonlaserlab.com/research/liquid_jets/)
         
         #### Project Overview
 
