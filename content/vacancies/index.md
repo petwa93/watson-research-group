@@ -95,7 +95,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#f8f9fa'
+        color: '#1e293b'
 
 #  - block: markdown
 #    content:
@@ -168,7 +168,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#f8f9fa'
+        color: '#1e293b'
 
   - block: markdown
     content:
@@ -181,5 +181,5 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#f8f9fa'
+        color: '#1e293b'
 ---
