@@ -59,7 +59,7 @@ sections:
     content:
       title: Latest Published Work
       text: ""
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
@@ -68,9 +68,9 @@ sections:
           - 'article'
           - 'book'
           - 'chapter'
-        date:
-          - start: '2024-01-01'
-            end: ''
+#        date:
+#          - start: '2024-01-01'
+#            end: ''
         recursive: true
     design:
       view: citation
