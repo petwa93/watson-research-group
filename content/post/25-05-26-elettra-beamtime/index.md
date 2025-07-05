@@ -7,7 +7,7 @@ Honours Student Noah Corbett travelled to Europe for a new collaboration.
 
 <!--More-->
 
-As part of his training, Honours student [Noah Corbett]() travelled to the Europe to work with local beamline scientists, [Todd Martz](https://trmartz.scrippsprofiles.ucsd.edu/) from UC San Diego and [Prof. Roland De Marco](https://staffportal.curtin.edu.au/staff/profile/view/roland-de-marco-0dea6703/) on a project examining new materials as potential sea sensors.
+As part of his training, Honours student [Noah Corbett](https://watsonlaserlab.com/author/noah-corbett/) travelled to the Europe to work with local beamline scientists, [Todd Martz](https://trmartz.scrippsprofiles.ucsd.edu/) from UC San Diego and [Prof. Roland De Marco](https://staffportal.curtin.edu.au/staff/profile/view/roland-de-marco-0dea6703/) on a project examining new materials as potential sea sensors.
 
 <figure style="max-width: 80%; margin: 20px auto; display: block;">
   <div style="display: flex; gap: 10px; align-items: flex-start;">
