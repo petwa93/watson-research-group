@@ -39,10 +39,10 @@ main:
     url: '/team/people/'
     parent: Team
     weight: 51
-#  - name: Values
-#    url: '/team/values/'
-#    parent: Team
-#    weight: 52
+  - name: Values
+    url: '/team/values/'
+    parent: Team
+    weight: 52
   - name: Vacancies
     url: '/team/vacancies/'
     parent: Team
