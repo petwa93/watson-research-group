@@ -49,13 +49,13 @@ We acknowledge the traditional owners of the land on which we live and work the 
   <p style="font-size: 0.9em; color: #666; margin-top: 0.5em; text-align: center; font-style: italic;">Peter has completed Level 3 Curtin Ally training and is an available touchpoint for DSSG students in WASM:MECE.</p>
 </div>
 
-We know that everyone is unique in who they are, how they feel about themselves and who they love. Our passion for science is built in that is accepts all and so do we. We passionately believe that the best ideas can only come when people feel safe and accepted in their work and we do what we can to foster that environment. We believe strongly in a principle of 'passing the mic', in protecting spaces so that others may speak for themselves.
+We know that everyone is unique in who they are, how they feel about themselves and who they love. Our passion for science is built in that it accepts all and so do we. We passionately believe that the best ideas can only come when people feel safe and accepted in their work and we do what we can to foster that environment. We believe strongly in a principle of 'passing the mic', in protecting spaces so that others may speak for themselves.
 
 ## Safety & Responsibility
 
 We believe that everyone deserves to go home safe. We regularly work with equipment or chemicals that can cause harm if not treated with respect. But with proper training and a clear mindset they are invaluable tools in our pursuit of knowledge.
 
-We acknowledge the impact that science, and particularly chemistry, has had in impacting the world and environment around us. We strive to be conscientious and mindful of the impact not only of our work, but of our practices. Many of the problems we tackle are seeking to contribute to achieving [Real Zero](https://realzero.earth/) in the fight against climate change, and we acknowledge that climate action begins with us. We aim to enact the [Principles of Green Chemistry](https://www.acs.org/green-chemistry-sustainability/principles/12-principles-of-green-chemistry.html) in our practice and reduce emissions, energy usage and waste resulting from our work.
+We acknowledge the impact that science, and particularly chemistry, has had on the world and environment around us. We strive to be conscientious and mindful of the impact not only of our work, but of our practices. Many of the problems we tackle are seeking to contribute to achieving [Real Zero](https://realzero.earth/) in the fight against climate change, and we acknowledge that climate action begins with us. We aim to enact the [Principles of Green Chemistry](https://www.acs.org/green-chemistry-sustainability/principles/12-principles-of-green-chemistry.html) in our practice and reduce emissions, energy usage and waste resulting from our work.
 
 <div style="clear: both; margin-top: 2em;">
 
