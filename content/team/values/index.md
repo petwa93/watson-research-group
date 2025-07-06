@@ -44,12 +44,12 @@ We believe in meeting people where they are at. For all our talk about success i
 
 We acknowledge the traditional owners of the land on which we live and work the [Whadjuk people of the Noongar nation](https://www.noongarculture.org.au/whadjuk/) and pay our respects to Elders past and present. We're deeply blessed to be able to call Boorloo (Perth) our home and grateful to the custodianship that the First Nations peoples have taken of the land for generations. We acknowledge First Nations peoples as Australia's first scientists and astronomers, and their immense knowledge of country and the skys above. 
 
-We know that everyone is unique in who they are, how they feel about themselves and who they love. Our passion for science is built in that is accepts all and so do we. We passionately believe that the best ideas can only come when people feel safe and accepted in their work and we do what we can to foster that environment. We believe strongly in a principle of 'passing the mic', in protecting spaces so that others may speak for themselves.
-
 <div style="float: right; margin: 0 0 1em 1em; width: 45%; max-width: 300px;">
   <img src="ally_level3.png" alt="Curtin Ally Level 3" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.9em; color: #666; margin-top: 0.5em; text-align: center; font-style: italic;">Peter has completed Level 3 Curtin Ally training and is an available touchpoint for DSSG students in WASM:MECE.</p>
 </div>
+
+We know that everyone is unique in who they are, how they feel about themselves and who they love. Our passion for science is built in that is accepts all and so do we. We passionately believe that the best ideas can only come when people feel safe and accepted in their work and we do what we can to foster that environment. We believe strongly in a principle of 'passing the mic', in protecting spaces so that others may speak for themselves.
 
 ## Safety & Responsibility
 
