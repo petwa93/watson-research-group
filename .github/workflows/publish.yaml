@@ -31,7 +31,6 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: '1.21'
-          cache: false
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -39,29 +38,10 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
       
-      - name: Download and prepare modules
+      - name: Install Hugo modules
         run: |
-          hugo mod clean --all
-          hugo mod get -u
+          hugo mod get
           hugo mod tidy
-          
-          echo "=== Module Graph ==="
-          hugo mod graph
-          
-          echo "=== Vendoring modules ==="
-          hugo mod vendor
-          
-          echo "=== Checking blox-core structure ==="
-          ls -la _vendor/github.com/HugoBlox/hugo-blox-builder/modules/blox-core/
-          
-          echo "=== Looking for layouts/partials in blox-core ==="
-          find _vendor/github.com/HugoBlox/hugo-blox-builder/modules/blox-core -name "*.html" -o -name "partials" -type d
-          
-          echo "=== Checking for get_hook partial specifically ==="
-          find _vendor -name "get_hook*" -type f
-          
-          echo "=== All partial files in blox-core ==="
-          find _vendor/github.com/HugoBlox/hugo-blox-builder/modules/blox-core -name "*.html" 2>/dev/null || echo "No HTML files found"
       
       - name: Setup Pages
         id: pages
