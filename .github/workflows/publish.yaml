@@ -39,36 +39,28 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
       
-      - name: Clear all caches and rebuild modules
+      - name: Download and prepare modules
         run: |
-          # Remove all Hugo caches
-          rm -rf $HOME/.cache/hugo_cache
-          rm -rf /tmp/hugo_cache_runner
-          rm -rf /home/runner/.cache/hugo_cache
-          
-          # Clean Hugo modules
+          # Clean and download modules
           hugo mod clean --all
-          
-          # Get modules fresh
           hugo mod get -u
           hugo mod tidy
           
-          # Verify blox-core is loaded
+          # Verify modules
           echo "=== Module Graph ==="
           hugo mod graph
-          echo "=== Checking for blox-core ==="
-          if hugo mod graph | grep -q "blox-core"; then
-            echo "✓ blox-core found"
-          else
-            echo "✗ blox-core NOT found"
-            exit 1
-          fi
+          
+          # Vendor the modules to ensure they're available
+          hugo mod vendor
+          
+          echo "=== Vendored modules ==="
+          ls -la _vendor/github.com/HugoBlox/hugo-blox-builder/modules/
       
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       
-      - name: Build with Hugo
+      - name: Build with Hugo (using vendored modules)
         env:
           HUGO_ENVIRONMENT: production
         run: |
