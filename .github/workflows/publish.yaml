@@ -31,24 +31,36 @@ jobs:
         with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+      
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+      
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
+      
       - name: Update Hugo modules
         run: |
           hugo mod clean
           hugo mod get -u
+          hugo mod tidy
+          hugo mod graph
+      
       - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
+      
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -57,9 +69,10 @@ jobs:
           echo "Content Directory Structure:"
           find ./content -type f | sort
           echo "Building site..."
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" --verbose
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
           echo "Public Directory Structure:"
           find ./public -type f | sort
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
