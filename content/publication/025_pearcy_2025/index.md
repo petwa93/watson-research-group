@@ -20,7 +20,6 @@ abstract: The structures of gas-phase platinum nitrosyl ion–molecule complexes
 links:
 - name: URL
   url: https://doi.org/10.1039/D5CP03460D
-  url_dataset: https://ora.ox.ac.uk/objects/uuid:e6e7b723-eca9-41b2-bcc0-3ebc9f811a03
 
 image:
   caption: 'Image credit: [**PCCP**](https://doi.org/10.1039/D5CP03460D)'
