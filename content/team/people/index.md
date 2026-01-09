@@ -8,7 +8,6 @@ sections:
   - block: people
     content:
       title: Meet the Team
-      # Groups displayed with profile pictures
       user_groups:
           - Group Leader
           - Postdocs
@@ -26,18 +25,8 @@ sections:
       show_role: true
       show_social: true
   
-  - block: people
+  - block: markdown
     content:
       title: Alumni
-      user_groups:
-          - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: false
-      show_social: false
-      show_organizations: false
-      # This view displays as a simple list
-      view: compact
----
+      text: |
+        {{< list_alumni >}}
