@@ -19,6 +19,8 @@ abstract: Resonant and non-resonant multiple photon excitation of small tantalum
 links:
 - name: URL
   url: https://doi.org/10.1080/00268976.2025.2596916
+- name: Dataset
+  url: https://ora.ox.ac.uk/objects/uuid:d043c0fa-c855-4259-8b9c-9f863c6b2151
 
 image:
   caption: 'Image credit: [**Mol. Phys.**](https://doi.org/10.1080/00268976.2025.2596916)'
