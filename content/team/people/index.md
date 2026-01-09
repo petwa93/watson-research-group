@@ -8,8 +8,7 @@ sections:
   - block: people
     content:
       title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      # Groups displayed with profile pictures
       user_groups:
           - Group Leader
           - Postdocs
@@ -19,7 +18,6 @@ sections:
           - Project Students
           - Administration
           - Visitors
-          - Alumni
           - Collaborators
       sort_by: Params.last_name
       sort_ascending: true
@@ -27,4 +25,19 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+  
+  - block: people
+    content:
+      title: Alumni
+      user_groups:
+          - Alumni
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: false
+      show_social: false
+      show_organizations: false
+      # This view displays as a simple list
+      view: list
 ---
