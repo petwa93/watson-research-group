@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project Students 
+  - Alumni 
 ---
 
 Cosima Biagioni is a 4th year chemical engineering student completing her honours at Curtin University in Perth, Western Australia. 
