@@ -28,5 +28,8 @@ sections:
   - block: markdown
     content:
       title: Alumni
-      text: |
-        {{< list_alumni >}}
+      text: |-
+        <ul>
+        {{< alumni-list >}}
+        </ul>
+---

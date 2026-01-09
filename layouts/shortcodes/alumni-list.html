@@ -1,0 +1,5 @@
+{{ range (where (where site.Pages "Type" "authors") ".Params.user_groups" "intersect" (slice "Alumni")).ByParam "alumni_year" }}
+  {{ if .Title }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.alumni_year }} ({{ . }}){{ end }}</li>
+  {{ end }}
+{{ end }}

@@ -62,6 +62,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Alumni
+
+alumni_year: 2025
 ---
 
 Hannah Finlay is a undergraduate chemical engineering & economics student at Curtin University in Perth, Australia.
