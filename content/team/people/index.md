@@ -39,5 +39,5 @@ sections:
       show_social: false
       show_organizations: false
       # This view displays as a simple list
-      view: list
+      view: compact
 ---
