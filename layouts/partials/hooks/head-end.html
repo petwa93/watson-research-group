@@ -1,0 +1,65 @@
+<!-- Custom SEO enhancements - Hugo Blox compatible -->
+
+<!-- Structured Data (JSON-LD) for Organization -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ResearchOrganization",
+  "name": "Watson Laser Lab",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}media/logo.png",
+  "description": "{{ .Site.Params.marketing.seo.description }}",
+  "sameAs": [
+    "https://twitter.com/{{ .Site.Params.marketing.seo.twitter }}"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kent St, Bentley",
+    "addressLocality": "Perth",
+    "addressRegion": "WA",
+    "postalCode": "6102",
+    "addressCountry": "AU"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "peter@watsonlaserlab.com",
+    "contactType": "Research Inquiries"
+  }
+}
+</script>
+
+<!-- Enhanced Open Graph tags -->
+{{ if .IsHome }}
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Watson Laser Lab - Physical Chemistry & Spectroscopy Research" />
+<meta property="og:description" content="{{ .Site.Params.marketing.seo.description }}" />
+<meta property="og:url" content="{{ .Site.BaseURL }}" />
+<meta property="og:site_name" content="Watson Laser Lab" />
+{{ else }}
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ .Title }} | Watson Laser Lab" />
+{{ with .Description }}
+<meta property="og:description" content="{{ . }}" />
+{{ else }}
+<meta property="og:description" content="{{ .Summary }}" />
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ end }}
+
+<!-- Twitter Card tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@{{ .Site.Params.marketing.seo.twitter }}" />
+{{ if .IsHome }}
+<meta name="twitter:title" content="Watson Laser Lab - Physical Chemistry & Spectroscopy Research" />
+<meta name="twitter:description" content="{{ .Site.Params.marketing.seo.description }}" />
+{{ else }}
+<meta name="twitter:title" content="{{ .Title }}" />
+{{ with .Description }}
+<meta name="twitter:description" content="{{ . }}" />
+{{ else }}
+<meta name="twitter:description" content="{{ .Summary }}" />
+{{ end }}
+{{ end }}
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}" />

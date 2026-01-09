@@ -3,6 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
+description: 'Leading physical chemistry research group at Curtin University specializing in laser spectroscopy, molecular dynamics, liquid jet spectroscopy, laser ablation synthesis, and high-resolution spectroscopy. Advancing scientific understanding through cutting-edge experimental and computational methods.'
 
 sections:
   - block: hero

@@ -1,6 +1,7 @@
 ---
 title: Team
 summary: Our research focuses on physical chemistry, spectroscopy, and instrument design
+description: 'Meet the Watson Laser Lab team of researchers, PhD students, and collaborators. Learn about our values, current vacancies, and opportunities to join our physical chemistry research group at Curtin University.'
 date: "2024-01-01T00:00:00Z"
 
 reading_time: false

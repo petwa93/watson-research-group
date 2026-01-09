@@ -1,6 +1,7 @@
 ---
 title: Research
 summary: Our research focuses on physical chemistry, spectroscopy, and instrument design
+description: 'Explore Watson Laser Lab research in liquid jet spectroscopy, laser ablation synthesis, high-resolution infrared spectroscopy, and cluster chemistry. Innovative experimental methods and advanced instrumentation for physical chemistry challenges.'
 date: "2024-01-01T00:00:00Z"
 
 reading_time: false

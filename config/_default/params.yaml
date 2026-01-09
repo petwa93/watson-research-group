@@ -18,16 +18,16 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A dynamic research group with a focus on physical chemistry and spectroscopy.'
+    org_name: 'Watson Laser Lab'
+    description: 'Leading research group specializing in physical chemistry, laser spectroscopy, molecular dynamics, and cluster chemistry. Explore cutting-edge research in liquid jet spectroscopy, laser ablation synthesis, and high-resolution spectroscopy at Curtin University.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: ''  # Add your GA4 ID here (format: G-XXXXXXXXXX)
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'orxzTq-XVc4sbtFuu86twhe0LgLg-o_fzpFPUP07l5U'
     baidu: ''
 
 # Site header
